@@ -15,3 +15,4 @@ jobs:
           github-token: ${{ secrets.MY_GITHUB_TOKEN }}
           assignees: ${{ github.actor }}
           reviewers: ${{ vars.REVIEWERS }}
+          max-num-of-reviewers: 3

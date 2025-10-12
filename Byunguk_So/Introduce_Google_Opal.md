@@ -1,5 +1,7 @@
 # What is Google Opal?
 
+[![Watch the video](https://img.youtube.com/vi/g9RBGnz-vqk/0.jpg)](https://youtu.be/g9RBGnz-vqk)
+
 ## Executive Summary
 
 최근 구글과 OpenAI가 각각 출시한 노코드 AI 빌더인 Google Opal과 OpenAI 에이전트 빌더는 AI 기반 자동화 및 앱 제작의 접근성을 획기적으로 낮추며 주목받고 있습니다. Opal은 자연어 설명을 통해 구글 생태계에 깊이 통합된 '미니 AI 앱'을 신속하게 프로토타이핑하는 데 중점을 두며, 에이전트 빌더는 특정 지식 기반의 ChatGPT 챗봇을 손쉽게 구축하는 데 특화되어 있습니다.
@@ -111,7 +113,7 @@ Google Opal과 OpenAI 에이전트 빌더는 AI 기술의 접근성을 한 단�
 
 ### 7. Reference
 
-- (Opal 소개: 설명만으로 제작하고, 공유하는 AI 미니 앱)[https://developers.googleblog.com/ko/introducing-opal/]
-- (Expanding access to Opal, our no-code AI mini-app builder)[https://blog.google/technology/google-labs/opal-expansion/]
-- (Google Opal , OpenAI Agent-Builder 솔직 후기(n8n,make비교))[https://blog.chatdaeri.com/google-opal-openai-agent-builder-review/]
-- (NotebookLM)[https://notebooklm.google.com/notebook/20b09ee0-8f19-433b-b498-2e7df267b347]
+- [Opal 소개: 설명만으로 제작하고, 공유하는 AI 미니 앱](https://developers.googleblog.com/ko/introducing-opal/)
+- [Expanding access to Opal, our no-code AI mini-app builder](https://blog.google/technology/google-labs/opal-expansion/)
+- [Google Opal , OpenAI Agent-Builder 솔직 후기(n8n,make비교)](https://blog.chatdaeri.com/google-opal-openai-agent-builder-review/)
+- [NotebookLM](https://notebooklm.google.com/notebook/20b09ee0-8f19-433b-b498-2e7df267b347)

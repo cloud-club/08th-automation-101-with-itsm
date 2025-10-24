@@ -1,5 +1,72 @@
 # ITSM 관점 자동화 사례 분석 및 실제 구축 스터디
 
+## Contributors
+
+<p align="center">
+  <a href="https://github.com/Cybecho"><img src="https://github.com/Cybecho.png" width="100" height="100"></a>
+  <a href="https://github.com/juanxiu"><img src="https://github.com/juanxiu.png" width="100" height="100"></a>
+  <a href="https://github.com/back1ash"><img src="https://github.com/back1ash.png" width="100" height="100"></a>
+  <a href="https://github.com/NOOJU"><img src="https://github.com/NOOJU.png" width="100" height="100"></a>
+  <a href="https://github.com/weeeeestern"><img src="https://github.com/weeeeestern.png" width="100" height="100"></a>
+  <a href="https://github.com/YuSung011017"><img src="https://github.com/YuSung011017.png" width="100" height="100"></a>
+  <a href="https://github.com/callme-waffle"><img src="https://github.com/callme-waffle.png" width="100" height="100"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jiione"><img src="https://github.com/jiione.png" width="100" height="100"></a>
+  <a href="https://github.com/juwonleee"><img src="https://github.com/juwonleee.png" width="100" height="100"></a>
+  <a href="https://github.com/yucori"><img src="https://github.com/yucori.png" width="100" height="100"></a>
+  <a href="https://github.com/koojun99"><img src="https://github.com/koojun99.png" width="100" height="100"></a>
+  <a href="https://github.com/seoyoungleeme"><img src="https://github.com/seoyoungleeme.png" width="100" height="100"></a>
+  <a href="https://github.com/dogsub"><img src="https://github.com/dogsub.png" width="100" height="100"></a>
+  <a href="https://github.com/NaDongMin"><img src="https://github.com/NaDongMin.png" width="100" height="100"></a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://github.com/Cybecho">@Cybecho</a> •
+    <a href="https://github.com/juanxiu">@juanxiu</a> •
+    <a href="https://github.com/back1ash">@back1ash</a> •
+    <a href="https://github.com/NOOJU">@NOOJU</a> •
+    <a href="https://github.com/weeeeestern">@weeeeestern</a> •
+    <a href="https://github.com/YuSung011017">@YuSung011017</a> •
+    <a href="https://github.com/callme-waffle">@callme-waffle</a>
+  </sub>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://github.com/jiione">@jiione</a> •
+    <a href="https://github.com/juwonleee">@juwonleee</a> •
+    <a href="https://github.com/yucori">@yucori</a> •
+    <a href="https://github.com/koojun99">@koojun99</a> •
+    <a href="https://github.com/seoyoungleeme">@seoyoungleeme</a> •
+    <a href="https://github.com/dogsub">@dogsub</a> •
+    <a href="https://github.com/NaDongMin">@NaDongMin</a>
+  </sub>
+</p>
+
+
+## 발표자료
+
+| 인원 | 발표 요약 |
+|:---:|---|
+| [@Cybecho](https://github.com/Cybecho) |  |
+| [@juanxiu](https://github.com/juanxiu) |  |
+| [@back1ash](https://github.com/back1ash) |  |
+| [@NOOJU](https://github.com/NOOJU) |  |
+| [@weeeeestern](https://github.com/weeeeestern) |  |
+| [@YuSung011017](https://github.com/YuSung011017) |  |
+| [@callme-waffle](https://github.com/callme-waffle) |  |
+| [@jiione](https://github.com/jiione) |  |
+| [@juwonleee](https://github.com/juwonleee) |  |
+| [@yucori](https://github.com/yucori) |  |
+| [@koojun99](https://github.com/koojun99) |  |
+| [@seoyoungleeme](https://github.com/seoyoungleeme) |  |
+| [@dogsub](https://github.com/dogsub) |  |
+| [@NaDongMin](https://github.com/NaDongMin) |  |
+
+
 ## 스터디 개요
 
 최근 AI와 더불어 자동화에 대한 관심이 급증하고 있습니다. 하지만 많은 사람들이 자동화 도구는 알고 있지만 "왜 자동화를 해야 하는가?"에 대한 명확한 답을 갖지 못하고 있습니다. GitHub Actions, Terraform, n8n 같은 도구들을 배워도 실제 업무에서 의미 있게 활용하기 어려운 이유입니다.

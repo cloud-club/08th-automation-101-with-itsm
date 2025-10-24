@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://github.com/jiione"><img src="https://github.com/jiione.png" width="100" height="100"></a>
   <a href="https://github.com/juwonleee"><img src="https://github.com/juwonleee.png" width="100" height="100"></a>
-  <a href="https://github.com/yucori"><img src="https://github.com/yucori.png" width="100" height="100"></a>
   <a href="https://github.com/koojun99"><img src="https://github.com/koojun99.png" width="100" height="100"></a>
   <a href="https://github.com/seoyoungleeme"><img src="https://github.com/seoyoungleeme.png" width="100" height="100"></a>
   <a href="https://github.com/dogsub"><img src="https://github.com/dogsub.png" width="100" height="100"></a>
@@ -38,7 +37,6 @@
   <sub>
     <a href="https://github.com/jiione">@jiione</a> •
     <a href="https://github.com/juwonleee">@juwonleee</a> •
-    <a href="https://github.com/yucori">@yucori</a> •
     <a href="https://github.com/koojun99">@koojun99</a> •
     <a href="https://github.com/seoyoungleeme">@seoyoungleeme</a> •
     <a href="https://github.com/dogsub">@dogsub</a> •
@@ -49,22 +47,25 @@
 
 ## 발표자료
 
+발표내용은 [NotebookLM](https://notebooklm.google.com/notebook/3d1280e8-4d9e-48df-b717-12e76d80bf19) 를 통해 자유롭게 질의응답 하실 수 있습니다.
+
 | 인원 | 발표 요약 |
 |:---:|---|
-| [@Cybecho](https://github.com/Cybecho) |  |
-| [@juanxiu](https://github.com/juanxiu) |  |
-| [@back1ash](https://github.com/back1ash) |  |
-| [@NOOJU](https://github.com/NOOJU) |  |
-| [@weeeeestern](https://github.com/weeeeestern) |  |
-| [@YuSung011017](https://github.com/YuSung011017) |  |
-| [@callme-waffle](https://github.com/callme-waffle) |  |
-| [@jiione](https://github.com/jiione) |  |
-| [@juwonleee](https://github.com/juwonleee) |  |
-| [@yucori](https://github.com/yucori) |  |
-| [@koojun99](https://github.com/koojun99) |  |
-| [@seoyoungleeme](https://github.com/seoyoungleeme) |  |
-| [@dogsub](https://github.com/dogsub) |  |
-| [@NaDongMin](https://github.com/NaDongMin) |  |
+| [Byunguk_So](https://github.com/Cybecho) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Byunguk_So/README.md) |
+| [Yeonsoo_Kim](https://github.com/juanxiu) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Yeonsoo_Kim/README.md) |
+| [Haejun_Lee](https://github.com/back1ash) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Haejun_Lee/README.md) |
+| [Joonwoo_Park](https://github.com/NOOJU) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Joonwoo_Park/README.md) |
+| [Eunseo_Park](https://github.com/weeeeestern) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Eunseo_Park/README.md) |
+| [Yusung_Lee](https://github.com/YuSung011017) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Yusung_Lee/README.md) |
+| [Hwagyun_Kim](https://github.com/callme-waffle) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Hwagyun_Kim/README.md) |
+| [Jiwon_Park](https://github.com/jiione) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Jiwon_Park/README.md) |
+| [Juwon_Lee](https://github.com/juwonleee) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Juwon_Lee/README.md) |
+| [Yucori](https://github.com/yucori) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Yucori/README.md) |
+| [Hwanjoon_Koo](https://github.com/koojun99) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Hwanjoon_Koo/README.md) |
+| [Seoyoung_Lee](https://github.com/seoyoungleeme) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Seoyoung_Lee/README.md) |
+| [Dongsup_Kim](https://github.com/dogsub) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Dongsup_Kim/README.md) |
+| [Dongmin_Na](https://github.com/NaDongMin) | [Link](https://github.com/cloud-club/08th-automation-101-with-itsm/blob/main/Dongmin_Na/README.md) |
+
 
 
 ## 스터디 개요
